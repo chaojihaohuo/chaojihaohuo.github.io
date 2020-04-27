@@ -6,11 +6,9 @@
 
 ### Golang
 
-- [网络工具包 g4net](https://github.com/glink4/g4net)
+- [网络工具包 netspeedtest](https://github.com/daliyo/netspeedtest)
 
-  包含以下内容
-
-  **g4net/speedtest** 测试客户端到云端服务器的上行下行网速
+  测试客户端到云端服务器的上行下行网速
 
 ### IDC 域名
 
